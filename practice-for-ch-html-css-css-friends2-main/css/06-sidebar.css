@@ -4,12 +4,9 @@
     display: block;
     margin-top: -150px;
     position: relative;
-} 
-
-.profile-picture img {
     border-radius: 5px;
-    border: 2px solid black;
-}
+    border: 1px solid black;
+} 
 
 .profile-info h2 {
     font-weight: bold;

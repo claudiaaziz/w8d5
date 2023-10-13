@@ -4,7 +4,7 @@
     background-color: hsl(120deg 100% 40%);
     color: white;
     box-shadow: 0 1px 0 0 #070;
-    padding: 2px 30px 2px 30px;
+    padding: 5px 30px 5px 30px;
     position: absolute;
     transform: rotate(-45deg);
     text-transform: uppercase;
